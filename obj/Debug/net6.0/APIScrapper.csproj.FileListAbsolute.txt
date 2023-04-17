@@ -1,0 +1,15 @@
+C:\Users\Tommy Waalkes\Desktop\APIScrapper\APIScrapper\bin\Debug\net6.0\APIScrapper.exe
+C:\Users\Tommy Waalkes\Desktop\APIScrapper\APIScrapper\bin\Debug\net6.0\APIScrapper.deps.json
+C:\Users\Tommy Waalkes\Desktop\APIScrapper\APIScrapper\bin\Debug\net6.0\APIScrapper.runtimeconfig.json
+C:\Users\Tommy Waalkes\Desktop\APIScrapper\APIScrapper\bin\Debug\net6.0\APIScrapper.dll
+C:\Users\Tommy Waalkes\Desktop\APIScrapper\APIScrapper\bin\Debug\net6.0\APIScrapper.pdb
+C:\Users\Tommy Waalkes\Desktop\APIScrapper\APIScrapper\obj\Debug\net6.0\APIScrapper.csproj.AssemblyReference.cache
+C:\Users\Tommy Waalkes\Desktop\APIScrapper\APIScrapper\obj\Debug\net6.0\APIScrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy Waalkes\Desktop\APIScrapper\APIScrapper\obj\Debug\net6.0\APIScrapper.AssemblyInfoInputs.cache
+C:\Users\Tommy Waalkes\Desktop\APIScrapper\APIScrapper\obj\Debug\net6.0\APIScrapper.AssemblyInfo.cs
+C:\Users\Tommy Waalkes\Desktop\APIScrapper\APIScrapper\obj\Debug\net6.0\APIScrapper.csproj.CoreCompileInputs.cache
+C:\Users\Tommy Waalkes\Desktop\APIScrapper\APIScrapper\obj\Debug\net6.0\APIScrapper.dll
+C:\Users\Tommy Waalkes\Desktop\APIScrapper\APIScrapper\obj\Debug\net6.0\refint\APIScrapper.dll
+C:\Users\Tommy Waalkes\Desktop\APIScrapper\APIScrapper\obj\Debug\net6.0\APIScrapper.pdb
+C:\Users\Tommy Waalkes\Desktop\APIScrapper\APIScrapper\obj\Debug\net6.0\APIScrapper.genruntimeconfig.cache
+C:\Users\Tommy Waalkes\Desktop\APIScrapper\APIScrapper\obj\Debug\net6.0\ref\APIScrapper.dll
